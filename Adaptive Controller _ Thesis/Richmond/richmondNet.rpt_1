@@ -1,0 +1,2565 @@
+  Page 1                                    Fri May 31 13:14:53 2019
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.00.12                        *
+  ******************************************************************
+  
+  Analysis begun Fri May 31 13:14:53 2019
+
+   
+  Hydraulic Status:
+  -----------------------------------------------------------------------
+     0:00:00: Balancing the network:
+              Trial  1: relative flow change = 1.061129
+              Trial  2: relative flow change = 0.873753
+              CV 1033 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from open to closed
+              CV 1677 switched from open to closed
+              Trial  3: relative flow change = 15.389393
+              Trial  4: relative flow change = 0.007801
+              CV 1210 switched from closed to open
+              CV 1677 switched from closed to open
+              Trial  5: relative flow change = 0.267352
+              Trial  6: relative flow change = 0.000026
+     0:00:00: Balanced after 6 trials
+     0:00:00: Reservoir O is emptying
+     0:00:00: Tank C is emptying at 1.84 m
+     0:00:00: Tank A is emptying at 3.12 m
+     0:00:00: Tank D is emptying at 1.94 m
+     0:00:00: Tank B is emptying at 3.37 m
+     0:00:00: Tank E is filling at 2.47 m
+     0:00:00: Tank F is emptying at 1.96 m
+     0:00:00: CV 1033 closed
+     0:00:00: CV 1196 closed
+   
+     1:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.996416
+              Trial  2: relative flow change = 2.111359
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              CV 1677 switched from open to closed
+              Pump 3A switched from open to closed
+              Trial  3: relative flow change = 24.287906
+              Trial  4: relative flow change = 0.002409
+              CV 1033 switched from closed to open
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Pump 3A switched from closed to open
+              Trial  5: relative flow change = 0.939556
+              Trial  6: relative flow change = 1.056779
+              CV 1033 switched from open to closed
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  7: relative flow change = 0.981634
+              Trial  8: relative flow change = 0.006020
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial  9: relative flow change = 0.322970
+              Trial 10: relative flow change = 0.271624
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial 11: relative flow change = 0.155767
+              Trial 12: relative flow change = 0.000314
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 13: relative flow change = 0.322967
+              Trial 14: relative flow change = 0.271624
+              Trial 15: relative flow change = 0.056399
+              Trial 16: relative flow change = 0.003001
+              Trial 17: relative flow change = 0.000009
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 18: relative flow change = 0.034715
+              Trial 19: relative flow change = 0.002516
+              Trial 20: relative flow change = 0.000011
+     1:00:00: Balanced after 20 trials
+     1:00:00: Tank A is filling at 3.04 m
+     1:00:00: CV 1196 changed from closed to open
+     1:00:00: CV 1210 changed from open to closed
+     1:00:00: CV 1677 changed from open to closed
+     1:00:00: Pump 2A changed from closed to open
+     1:00:00: Pump 6D changed from closed to open
+     1:00:00: Pump 3A changed from closed to open
+   
+     2:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.438845
+              Trial  2: relative flow change = 0.081406
+              Trial  3: relative flow change = 0.005913
+              Trial  4: relative flow change = 0.000008
+     2:00:00: Balanced after 4 trials
+     2:00:00: Tank A is emptying at 3.13 m
+     2:00:00: Tank B is filling at 2.52 m
+     2:00:00: Pump 4B changed from closed to open
+     2:00:00: Pump 1A changed from closed to open
+   
+     3:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.342179
+              Trial  2: relative flow change = 0.036425
+              Trial  3: relative flow change = 0.000930
+     3:00:00: Balanced after 3 trials
+     3:00:00: Pump 1A changed from open to closed
+   
+     3:41:41: Balancing the network:
+              Trial  1: relative flow change = 0.006002
+              Trial  2: relative flow change = 0.000027
+              CV 1783 switched from open to closed
+              Trial  3: relative flow change = 0.015892
+              Trial  4: relative flow change = 0.000000
+     3:41:41: Balanced after 4 trials
+     3:41:41: Tank D is filling at 1.50 m
+     3:41:41: Tank E is emptying at 2.69 m
+     3:41:41: CV 1783 changed from open to temporarily closed
+   
+     4:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.034830
+              Trial  2: relative flow change = 0.000462
+              CV 1783 switched from closed to open
+              Trial  3: relative flow change = 0.931567
+              Trial  4: relative flow change = 1.012089
+              Trial  5: relative flow change = 0.871261
+              Trial  6: relative flow change = 0.668905
+              Trial  7: relative flow change = 0.444424
+              Trial  8: relative flow change = 0.256811
+              Trial  9: relative flow change = 0.133601
+              Trial 10: relative flow change = 0.064773
+              Trial 11: relative flow change = 0.029388
+              Trial 12: relative flow change = 0.011510
+              Trial 13: relative flow change = 0.002849
+              Trial 14: relative flow change = 0.000211
+     4:00:00: Balanced after 14 trials
+     4:00:00: Tank E is filling at 2.65 m
+     4:00:00: CV 1783 changed from temporarily closed to open
+   
+     4:30:28: Balancing the network:
+              Trial  1: relative flow change = 0.240875
+              Trial  2: relative flow change = 0.001282
+              CV 1783 switched from open to closed
+              Trial  3: relative flow change = 0.017496
+              Trial  4: relative flow change = 0.000000
+     4:30:28: Balanced after 4 trials
+     4:30:28: Tank A is filling at 2.86 m
+     4:30:28: Tank B is emptying at 3.07 m
+     4:30:28: Tank E is emptying at 2.69 m
+     4:30:28: CV 1783 changed from open to temporarily closed
+     4:30:28: Pump 4B changed from open to closed
+   
+     5:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.012694
+              Trial  2: relative flow change = 0.000005
+              CV 1783 switched from closed to open
+              Trial  3: relative flow change = 0.940727
+              Trial  4: relative flow change = 1.032316
+              Trial  5: relative flow change = 0.904423
+              Trial  6: relative flow change = 0.712509
+              Trial  7: relative flow change = 0.487530
+              Trial  8: relative flow change = 0.288940
+              Trial  9: relative flow change = 0.152918
+              Trial 10: relative flow change = 0.074931
+              Trial 11: relative flow change = 0.034319
+              Trial 12: relative flow change = 0.013716
+              Trial 13: relative flow change = 0.003600
+              Trial 14: relative flow change = 0.000307
+     5:00:00: Balanced after 14 trials
+     5:00:00: Tank E is filling at 2.63 m
+     5:00:00: CV 1783 changed from temporarily closed to open
+   
+     5:36:21: Balancing the network:
+              Trial  1: relative flow change = 0.000936
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.017691
+              Trial  3: relative flow change = 0.000000
+     5:36:21: Balanced after 3 trials
+     5:36:21: Tank E is emptying at 2.69 m
+     5:36:21: CV 1783 changed from open to temporarily closed
+   
+     6:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.002851
+              Trial  2: relative flow change = 0.000000
+              CV 1783 switched from closed to open
+              Trial  3: relative flow change = 0.941789
+              Trial  4: relative flow change = 1.034688
+              Trial  5: relative flow change = 0.908389
+              Trial  6: relative flow change = 0.717878
+              Trial  7: relative flow change = 0.493017
+              Trial  8: relative flow change = 0.293151
+              Trial  9: relative flow change = 0.155504
+              Trial 10: relative flow change = 0.076315
+              Trial 11: relative flow change = 0.035013
+              Trial 12: relative flow change = 0.014054
+              Trial 13: relative flow change = 0.003738
+              Trial 14: relative flow change = 0.000328
+     6:00:00: Balanced after 14 trials
+     6:00:00: Tank E is filling at 2.65 m
+     6:00:00: CV 1783 changed from temporarily closed to open
+   
+     6:26:13: Balancing the network:
+              Trial  1: relative flow change = 0.278741
+              Trial  2: relative flow change = 0.039222
+              CV 1783 switched from open to closed
+              Trial  3: relative flow change = 0.018263
+              Trial  4: relative flow change = 0.000164
+     6:26:13: Balanced after 4 trials
+     6:26:13: Tank A is emptying at 3.20 m
+     6:26:13: Tank B is filling at 2.41 m
+     6:26:13: Tank E is emptying at 2.69 m
+     6:26:13: Tank F is filling at 1.67 m
+     6:26:13: CV 1783 changed from open to temporarily closed
+     6:26:13: Pump 7F changed from closed to open
+     6:26:13: Pump 4B changed from closed to open
+   
+     7:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.008561
+              Trial  2: relative flow change = 0.000408
+              CV 1783 switched from closed to open
+              Trial  3: relative flow change = 0.938897
+              Trial  4: relative flow change = 1.028244
+              Trial  5: relative flow change = 0.897654
+              Trial  6: relative flow change = 0.703428
+              Trial  7: relative flow change = 0.478351
+              Trial  8: relative flow change = 0.281982
+              Trial  9: relative flow change = 0.148718
+              Trial 10: relative flow change = 0.072782
+              Trial 11: relative flow change = 0.033409
+              Trial 12: relative flow change = 0.013512
+              Trial 13: relative flow change = 0.003690
+              Trial 14: relative flow change = 0.000346
+     7:00:00: Balanced after 14 trials
+     7:00:00: Tank E is filling at 2.58 m
+     7:00:00: CV 1783 changed from temporarily closed to open
+   
+     7:47:06: Balancing the network:
+              Trial  1: relative flow change = 0.325658
+              Trial  2: relative flow change = 0.039401
+              Trial  3: relative flow change = 0.004752
+              Trial  4: relative flow change = 0.000067
+     7:47:06: Balanced after 4 trials
+     7:47:06: Tank C is filling at 0.82 m
+     7:47:06: Tank A is filling at 3.06 m
+     7:47:06: Tank B is emptying at 2.89 m
+     7:47:06: Tank F is emptying at 2.19 m
+     7:47:06: Pump 7F changed from open to closed
+     7:47:06: Pump 5C changed from closed to open
+     7:47:06: Pump 4B changed from open to closed
+   
+     8:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.010783
+              Trial  2: relative flow change = 0.000029
+     8:00:00: Balanced after 2 trials
+   
+     8:40:10: Balancing the network:
+              Trial  1: relative flow change = 0.257105
+              Trial  2: relative flow change = 0.030386
+              CV 1783 switched from open to closed
+              Trial  3: relative flow change = 0.016347
+              Trial  4: relative flow change = 0.000024
+     8:40:10: Balanced after 4 trials
+     8:40:10: Tank A is emptying at 3.20 m
+     8:40:10: Tank B is filling at 2.63 m
+     8:40:10: Tank E is emptying at 2.69 m
+     8:40:10: CV 1783 changed from open to temporarily closed
+     8:40:10: Pump 4B changed from closed to open
+   
+     9:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.006813
+              Trial  2: relative flow change = 0.000015
+              CV 1783 switched from closed to open
+              Trial  3: relative flow change = 0.939220
+              Trial  4: relative flow change = 1.028961
+              Trial  5: relative flow change = 0.898844
+              Trial  6: relative flow change = 0.705021
+              Trial  7: relative flow change = 0.479960
+              Trial  8: relative flow change = 0.283211
+              Trial  9: relative flow change = 0.149487
+              Trial 10: relative flow change = 0.073232
+              Trial 11: relative flow change = 0.033708
+              Trial 12: relative flow change = 0.013767
+              Trial 13: relative flow change = 0.003881
+              Trial 14: relative flow change = 0.000394
+     9:00:00: Balanced after 14 trials
+     9:00:00: Tank E is filling at 2.66 m
+     9:00:00: CV 1783 changed from temporarily closed to open
+   
+     9:17:19: Balancing the network:
+              Trial  1: relative flow change = 0.243457
+              Trial  2: relative flow change = 0.001349
+              CV 1783 switched from open to closed
+              Trial  3: relative flow change = 0.017136
+              Trial  4: relative flow change = 0.000000
+     9:17:19: Balanced after 4 trials
+     9:17:19: Tank A is filling at 3.12 m
+     9:17:19: Tank B is emptying at 2.86 m
+     9:17:19: Tank E is emptying at 2.69 m
+     9:17:19: CV 1783 changed from open to temporarily closed
+     9:17:19: Pump 4B changed from open to closed
+   
+    10:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.028226
+              Trial  2: relative flow change = 0.000606
+              CV 1783 switched from closed to open
+              Trial  3: relative flow change = 0.934404
+              Trial  4: relative flow change = 1.018311
+              Trial  5: relative flow change = 0.881337
+              Trial  6: relative flow change = 0.681916
+              Trial  7: relative flow change = 0.457019
+              Trial  8: relative flow change = 0.266025
+              Trial  9: relative flow change = 0.139060
+              Trial 10: relative flow change = 0.067597
+              Trial 11: relative flow change = 0.030706
+              Trial 12: relative flow change = 0.012028
+              Trial 13: relative flow change = 0.002974
+              Trial 14: relative flow change = 0.000220
+    10:00:00: Balanced after 14 trials
+    10:00:00: Tank E is filling at 2.62 m
+    10:00:00: CV 1783 changed from temporarily closed to open
+   
+    10:47:51: Balancing the network:
+              Trial  1: relative flow change = 0.316593
+              Trial  2: relative flow change = 0.038030
+              CV 1783 switched from open to closed
+              Trial  3: relative flow change = 0.017058
+              Trial  4: relative flow change = 0.000000
+    10:47:51: Balanced after 4 trials
+    10:47:51: Tank C is emptying at 1.93 m
+    10:47:51: Tank A is emptying at 3.34 m
+    10:47:51: Tank B is filling at 2.36 m
+    10:47:51: Tank E is emptying at 2.69 m
+    10:47:51: CV 1783 changed from open to temporarily closed
+    10:47:51: Pump 5C changed from open to closed
+    10:47:51: Pump 4B changed from closed to open
+   
+    11:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.023106
+              Trial  2: relative flow change = 0.000019
+              CV 1783 switched from closed to open
+              Trial  3: relative flow change = 0.923327
+              Trial  4: relative flow change = 0.994235
+              Trial  5: relative flow change = 0.842932
+              Trial  6: relative flow change = 0.633372
+              Trial  7: relative flow change = 0.411092
+              Trial  8: relative flow change = 0.233022
+              Trial  9: relative flow change = 0.119667
+              Trial 10: relative flow change = 0.057485
+              Trial 11: relative flow change = 0.025737
+              Trial 12: relative flow change = 0.009695
+              Trial 13: relative flow change = 0.002136
+              Trial 14: relative flow change = 0.000121
+    11:00:00: Balanced after 14 trials
+    11:00:00: Tank D is emptying at 2.09 m
+    11:00:00: Tank E is filling at 2.67 m
+    11:00:00: CV 1783 changed from temporarily closed to open
+   
+    11:21:08: Balancing the network:
+              Trial  1: relative flow change = 0.253739
+              Trial  2: relative flow change = 0.001491
+              CV 1783 switched from open to closed
+              Trial  3: relative flow change = 0.017405
+              Trial  4: relative flow change = 0.000000
+    11:21:08: Balanced after 4 trials
+    11:21:08: Tank A is filling at 3.25 m
+    11:21:08: Tank D is filling at 2.08 m
+    11:21:08: Tank B is emptying at 2.51 m
+    11:21:08: Tank E is emptying at 2.69 m
+    11:21:08: CV 1783 changed from open to temporarily closed
+    11:21:08: Pump 4B changed from open to closed
+   
+    11:41:37: Balancing the network:
+              Trial  1: relative flow change = 0.000354
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  2: relative flow change = 0.936760
+              Trial  3: relative flow change = 1.014845
+              Trial  4: relative flow change = 0.875708
+              Trial  5: relative flow change = 0.674614
+              Trial  6: relative flow change = 0.449903
+              Trial  7: relative flow change = 0.260758
+              Trial  8: relative flow change = 0.135846
+              Trial  9: relative flow change = 0.065769
+              Trial 10: relative flow change = 0.029557
+              Trial 11: relative flow change = 0.011152
+              Trial 12: relative flow change = 0.002459
+              Trial 13: relative flow change = 0.000140
+    11:41:37: Balanced after 13 trials
+    11:41:37: Tank D is emptying at 2.11 m
+    11:41:37: Tank E is filling at 2.64 m
+    11:41:37: CV 1196 changed from open to temporarily closed
+    11:41:37: CV 1783 changed from temporarily closed to open
+   
+    12:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.016657
+              Trial  2: relative flow change = 0.000180
+              CV 1196 switched from closed to open
+              Trial  3: relative flow change = 0.123427
+              Trial  4: relative flow change = 0.072243
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  5: relative flow change = 0.042479
+              Trial  6: relative flow change = 0.000236
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial  7: relative flow change = 0.036755
+              Trial  8: relative flow change = 0.002764
+              Trial  9: relative flow change = 0.000013
+    12:00:00: Balanced after 9 trials
+    12:00:00: CV 1196 changed from temporarily closed to open
+   
+    12:05:17: Balancing the network:
+              Trial  1: relative flow change = 0.270151
+              Trial  2: relative flow change = 0.039773
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  3: relative flow change = 0.030826
+              Trial  4: relative flow change = 0.003032
+              Trial  5: relative flow change = 0.000002
+    12:05:17: Balanced after 5 trials
+    12:05:17: Tank A is emptying at 3.37 m
+    12:05:17: Tank B is filling at 2.20 m
+    12:05:17: Pipe 1879 changed from open to temporarily closed
+    12:05:17: Pipe p2 changed from open to temporarily closed
+    12:05:17: Pump 4B changed from closed to open
+   
+    12:27:20: Balancing the network:
+              Trial  1: relative flow change = 0.000776
+              CV 1783 switched from open to closed
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  2: relative flow change = 0.053699
+              Trial  3: relative flow change = 0.001043
+              Trial  4: relative flow change = 0.000000
+    12:27:20: Balanced after 4 trials
+    12:27:20: Tank D is filling at 2.01 m
+    12:27:20: Tank E is emptying at 2.69 m
+    12:27:20: CV 1783 changed from open to temporarily closed
+    12:27:20: Pipe 1879 changed from temporarily closed to open
+    12:27:20: Pipe p2 changed from temporarily closed to open
+   
+    13:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.019054
+              Trial  2: relative flow change = 0.000101
+              CV 1783 switched from closed to open
+              Trial  3: relative flow change = 0.924236
+              Trial  4: relative flow change = 0.996190
+              Trial  5: relative flow change = 0.845993
+              Trial  6: relative flow change = 0.637138
+              Trial  7: relative flow change = 0.414552
+              Trial  8: relative flow change = 0.235450
+              Trial  9: relative flow change = 0.121074
+              Trial 10: relative flow change = 0.058216
+              Trial 11: relative flow change = 0.026103
+              Trial 12: relative flow change = 0.009876
+              Trial 13: relative flow change = 0.002205
+              Trial 14: relative flow change = 0.000129
+    13:00:00: Balanced after 14 trials
+    13:00:00: Tank D is emptying at 2.05 m
+    13:00:00: Tank E is filling at 2.61 m
+    13:00:00: CV 1783 changed from temporarily closed to open
+   
+    14:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.006499
+              Trial  2: relative flow change = 0.001982
+              Trial  3: relative flow change = 0.000004
+    14:00:00: Balanced after 3 trials
+   
+    14:09:04: Balancing the network:
+              Trial  1: relative flow change = 0.244148
+              Trial  2: relative flow change = 0.000956
+              CV 1783 switched from open to closed
+              Trial  3: relative flow change = 0.017348
+              Trial  4: relative flow change = 0.000000
+    14:09:04: Balanced after 4 trials
+    14:09:04: Tank A is filling at 2.99 m
+    14:09:04: Tank D is filling at 2.03 m
+    14:09:04: Tank B is emptying at 2.73 m
+    14:09:04: Tank E is emptying at 2.69 m
+    14:09:04: CV 1783 changed from open to temporarily closed
+    14:09:04: Pump 4B changed from open to closed
+   
+    15:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.030716
+              Trial  2: relative flow change = 0.001651
+              CV 1783 switched from closed to open
+              Trial  3: relative flow change = 0.939335
+              Trial  4: relative flow change = 1.029215
+              Trial  5: relative flow change = 0.899263
+              Trial  6: relative flow change = 0.705574
+              Trial  7: relative flow change = 0.480500
+              Trial  8: relative flow change = 0.283582
+              Trial  9: relative flow change = 0.149637
+              Trial 10: relative flow change = 0.073165
+              Trial 11: relative flow change = 0.033410
+              Trial 12: relative flow change = 0.013237
+              Trial 13: relative flow change = 0.003382
+              Trial 14: relative flow change = 0.000270
+    15:00:00: Balanced after 14 trials
+    15:00:00: Tank E is filling at 2.58 m
+    15:00:00: CV 1783 changed from temporarily closed to open
+   
+    15:14:45: Balancing the network:
+              Trial  1: relative flow change = 0.271905
+              Trial  2: relative flow change = 0.036016
+              CV 1196 switched from open to closed
+              Trial  3: relative flow change = 0.057797
+              Trial  4: relative flow change = 0.000001
+    15:14:45: Balanced after 4 trials
+    15:14:45: Tank A is emptying at 3.15 m
+    15:14:45: Tank D is emptying at 2.11 m
+    15:14:45: Tank B is filling at 2.29 m
+    15:14:45: CV 1196 changed from open to temporarily closed
+    15:14:45: Pump 4B changed from closed to open
+   
+    16:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.012294
+              Trial  2: relative flow change = 0.000117
+              CV 1196 switched from closed to open
+              Trial  3: relative flow change = 0.227243
+              Trial  4: relative flow change = 0.172462
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  5: relative flow change = 0.126325
+              Trial  6: relative flow change = 0.000010
+              CV 1154 switched from closed to open
+              Trial  7: relative flow change = 0.398455
+              Trial  8: relative flow change = 0.357191
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  9: relative flow change = 0.208074
+              Trial 10: relative flow change = 0.000686
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 11: relative flow change = 0.343008
+              Trial 12: relative flow change = 0.294196
+              Trial 13: relative flow change = 0.067868
+              Trial 14: relative flow change = 0.003997
+              Trial 15: relative flow change = 0.000311
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 16: relative flow change = 0.038874
+              Trial 17: relative flow change = 0.003179
+              Trial 18: relative flow change = 0.000018
+    16:00:00: Balanced after 18 trials
+    16:00:00: Tank D is filling at 1.93 m
+    16:00:00: CV 1196 changed from temporarily closed to open
+   
+    16:14:44: Balancing the network:
+              Trial  1: relative flow change = 0.317365
+              Trial  2: relative flow change = 0.033278
+              CV 1783 switched from open to closed
+              Trial  3: relative flow change = 0.021206
+              Trial  4: relative flow change = 0.000051
+    16:14:44: Balanced after 4 trials
+    16:14:44: Tank C is filling at 1.19 m
+    16:14:44: Tank A is filling at 3.08 m
+    16:14:44: Tank B is emptying at 2.63 m
+    16:14:44: Tank E is emptying at 2.69 m
+    16:14:44: CV 1783 changed from open to temporarily closed
+    16:14:44: Pump 5C changed from closed to open
+    16:14:44: Pump 4B changed from open to closed
+   
+    17:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.050517
+              Trial  2: relative flow change = 0.000615
+              CV 1783 switched from closed to open
+              Trial  3: relative flow change = 0.955367
+              Trial  4: relative flow change = 1.065502
+              Trial  5: relative flow change = 0.961458
+              Trial  6: relative flow change = 0.793094
+              Trial  7: relative flow change = 0.574386
+              Trial  8: relative flow change = 0.358999
+              Trial  9: relative flow change = 0.197533
+              Trial 10: relative flow change = 0.099384
+              Trial 11: relative flow change = 0.046824
+              Trial 12: relative flow change = 0.020081
+              Trial 13: relative flow change = 0.006573
+              Trial 14: relative flow change = 0.000975
+    17:00:00: Balanced after 14 trials
+    17:00:00: Tank E is filling at 2.61 m
+    17:00:00: CV 1783 changed from temporarily closed to open
+   
+    17:37:14: Balancing the network:
+              Trial  1: relative flow change = 0.285832
+              Trial  2: relative flow change = 0.046053
+              CV 1783 switched from open to closed
+              Trial  3: relative flow change = 0.019563
+              Trial  4: relative flow change = 0.000542
+    17:37:14: Balanced after 4 trials
+    17:37:14: Tank A is emptying at 3.30 m
+    17:37:14: Tank B is filling at 2.23 m
+    17:37:14: Tank E is emptying at 2.69 m
+    17:37:14: Tank F is filling at 1.79 m
+    17:37:14: CV 1783 changed from open to temporarily closed
+    17:37:14: Pump 7F changed from closed to open
+    17:37:14: Pump 4B changed from closed to open
+   
+    17:37:54: Balancing the network:
+              Trial  1: relative flow change = 0.000120
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  2: relative flow change = 0.957043
+              Trial  3: relative flow change = 1.062663
+              Trial  4: relative flow change = 0.956441
+              Trial  5: relative flow change = 0.785704
+              Trial  6: relative flow change = 0.566005
+              Trial  7: relative flow change = 0.351917
+              Trial  8: relative flow change = 0.192884
+              Trial  9: relative flow change = 0.096818
+              Trial 10: relative flow change = 0.045560
+              Trial 11: relative flow change = 0.019528
+              Trial 12: relative flow change = 0.006390
+              Trial 13: relative flow change = 0.000948
+    17:37:54: Balanced after 13 trials
+    17:37:54: Tank D is emptying at 2.11 m
+    17:37:54: Tank E is filling at 2.69 m
+    17:37:54: CV 1196 changed from open to temporarily closed
+    17:37:54: CV 1783 changed from temporarily closed to open
+   
+    17:40:34: Balancing the network:
+              Trial  1: relative flow change = 0.000326
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.272134
+              Trial  3: relative flow change = 0.201046
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 0.139102
+              Trial  5: relative flow change = 0.000117
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.423352
+              Trial  7: relative flow change = 0.389838
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.236500
+              Trial  9: relative flow change = 0.000198
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 10: relative flow change = 0.379180
+              Trial 11: relative flow change = 0.337828
+              Trial 12: relative flow change = 0.088022
+              Trial 13: relative flow change = 0.006776
+              Trial 14: relative flow change = 0.000384
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 15: relative flow change = 0.042290
+              Trial 16: relative flow change = 0.003591
+              Trial 17: relative flow change = 0.000024
+    17:40:34: Balanced after 17 trials
+    17:40:34: Tank D is filling at 2.10 m
+    17:40:34: Tank E is emptying at 2.69 m
+    17:40:34: CV 1196 changed from temporarily closed to open
+    17:40:34: CV 1783 changed from open to temporarily closed
+   
+    17:43:00: Balancing the network:
+              Trial  1: relative flow change = 0.000335
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  2: relative flow change = 0.957056
+              Trial  3: relative flow change = 1.062693
+              Trial  4: relative flow change = 0.956494
+              Trial  5: relative flow change = 0.785782
+              Trial  6: relative flow change = 0.566093
+              Trial  7: relative flow change = 0.351992
+              Trial  8: relative flow change = 0.192933
+              Trial  9: relative flow change = 0.096845
+              Trial 10: relative flow change = 0.045574
+              Trial 11: relative flow change = 0.019534
+              Trial 12: relative flow change = 0.006392
+              Trial 13: relative flow change = 0.000949
+    17:43:00: Balanced after 13 trials
+    17:43:00: Tank D is emptying at 2.11 m
+    17:43:00: Tank E is filling at 2.68 m
+    17:43:00: CV 1196 changed from open to temporarily closed
+    17:43:00: CV 1783 changed from temporarily closed to open
+   
+    17:52:33: Balancing the network:
+              Trial  1: relative flow change = 0.001105
+              Trial  2: relative flow change = 0.000001
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  3: relative flow change = 0.272301
+              Trial  4: relative flow change = 0.201201
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  5: relative flow change = 0.139218
+              Trial  6: relative flow change = 0.000117
+              CV 1154 switched from closed to open
+              Trial  7: relative flow change = 0.423566
+              Trial  8: relative flow change = 0.390104
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  9: relative flow change = 0.236715
+              Trial 10: relative flow change = 0.000198
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 11: relative flow change = 0.379386
+              Trial 12: relative flow change = 0.338071
+              Trial 13: relative flow change = 0.088112
+              Trial 14: relative flow change = 0.006786
+              Trial 15: relative flow change = 0.000383
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 16: relative flow change = 0.042316
+              Trial 17: relative flow change = 0.003594
+              Trial 18: relative flow change = 0.000024
+    17:52:33: Balanced after 18 trials
+    17:52:33: Tank D is filling at 2.08 m
+    17:52:33: Tank E is emptying at 2.69 m
+    17:52:33: CV 1196 changed from temporarily closed to open
+    17:52:33: CV 1783 changed from open to temporarily closed
+   
+    18:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.030904
+              Trial  2: relative flow change = 0.000247
+              CV 1783 switched from closed to open
+              Trial  3: relative flow change = 0.963382
+              Trial  4: relative flow change = 1.084133
+              Trial  5: relative flow change = 0.994999
+              Trial  6: relative flow change = 0.844128
+              Trial  7: relative flow change = 0.634839
+              Trial  8: relative flow change = 0.412433
+              Trial  9: relative flow change = 0.233952
+              Trial 10: relative flow change = 0.120186
+              Trial 11: relative flow change = 0.057718
+              Trial 12: relative flow change = 0.025790
+              Trial 13: relative flow change = 0.009640
+              Trial 14: relative flow change = 0.002075
+              Trial 15: relative flow change = 0.000112
+    18:00:00: Balanced after 15 trials
+    18:00:00: Tank E is filling at 2.67 m
+    18:00:00: CV 1783 changed from temporarily closed to open
+   
+    18:01:43: Balancing the network:
+              Trial  1: relative flow change = 0.267079
+              Trial  2: relative flow change = 0.001491
+              CV 1196 switched from open to closed
+              Trial  3: relative flow change = 0.073954
+              Trial  4: relative flow change = 0.000034
+    18:01:43: Balanced after 4 trials
+    18:01:43: Tank A is filling at 3.28 m
+    18:01:43: Tank D is emptying at 2.11 m
+    18:01:43: Tank B is emptying at 2.42 m
+    18:01:43: Tank F is emptying at 1.96 m
+    18:01:43: CV 1196 changed from open to temporarily closed
+    18:01:43: Pump 7F changed from open to closed
+    18:01:43: Pump 4B changed from open to closed
+   
+    18:08:48: Balancing the network:
+              Trial  1: relative flow change = 0.000321
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.326282
+              Trial  3: relative flow change = 0.252443
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 0.173427
+              Trial  5: relative flow change = 0.000165
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.462464
+              Trial  7: relative flow change = 0.441989
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.280740
+              Trial  9: relative flow change = 0.000248
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 10: relative flow change = 0.428227
+              Trial 11: relative flow change = 0.398632
+              Trial 12: relative flow change = 0.111765
+              Trial 13: relative flow change = 0.009755
+              Trial 14: relative flow change = 0.000449
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 15: relative flow change = 0.049814
+              Trial 16: relative flow change = 0.004409
+              Trial 17: relative flow change = 0.000032
+    18:08:48: Balanced after 17 trials
+    18:08:48: Tank D is filling at 2.09 m
+    18:08:48: Tank E is emptying at 2.69 m
+    18:08:48: CV 1196 changed from temporarily closed to open
+    18:08:48: CV 1783 changed from open to temporarily closed
+   
+    18:13:16: Balancing the network:
+              Trial  1: relative flow change = 0.000144
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  2: relative flow change = 0.971114
+              Trial  3: relative flow change = 1.096817
+              Trial  4: relative flow change = 1.018494
+              Trial  5: relative flow change = 0.881632
+              Trial  6: relative flow change = 0.682289
+              Trial  7: relative flow change = 0.457359
+              Trial  8: relative flow change = 0.266221
+              Trial  9: relative flow change = 0.139069
+              Trial 10: relative flow change = 0.067397
+              Trial 11: relative flow change = 0.030246
+              Trial 12: relative flow change = 0.011324
+              Trial 13: relative flow change = 0.002438
+              Trial 14: relative flow change = 0.000131
+    18:13:16: Balanced after 14 trials
+    18:13:16: Tank D is emptying at 2.11 m
+    18:13:16: Tank E is filling at 2.69 m
+    18:13:16: CV 1196 changed from open to temporarily closed
+    18:13:16: CV 1783 changed from temporarily closed to open
+   
+    18:14:40: Balancing the network:
+              Trial  1: relative flow change = 0.000064
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.326399
+              Trial  3: relative flow change = 0.252555
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 0.173517
+              Trial  5: relative flow change = 0.000165
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.462594
+              Trial  7: relative flow change = 0.442161
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.280895
+              Trial  9: relative flow change = 0.000249
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 10: relative flow change = 0.428356
+              Trial 11: relative flow change = 0.398794
+              Trial 12: relative flow change = 0.111835
+              Trial 13: relative flow change = 0.009765
+              Trial 14: relative flow change = 0.000447
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 15: relative flow change = 0.049831
+              Trial 16: relative flow change = 0.004411
+              Trial 17: relative flow change = 0.000032
+    18:14:40: Balanced after 17 trials
+    18:14:40: Tank D is filling at 2.11 m
+    18:14:40: Tank E is emptying at 2.69 m
+    18:14:40: CV 1196 changed from temporarily closed to open
+    18:14:40: CV 1783 changed from open to temporarily closed
+   
+    18:15:33: Balancing the network:
+              Trial  1: relative flow change = 0.000029
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  2: relative flow change = 0.971115
+              Trial  3: relative flow change = 1.096819
+              Trial  4: relative flow change = 1.018498
+              Trial  5: relative flow change = 0.881639
+              Trial  6: relative flow change = 0.682297
+              Trial  7: relative flow change = 0.457367
+              Trial  8: relative flow change = 0.266226
+              Trial  9: relative flow change = 0.139072
+              Trial 10: relative flow change = 0.067399
+              Trial 11: relative flow change = 0.030247
+              Trial 12: relative flow change = 0.011324
+              Trial 13: relative flow change = 0.002438
+              Trial 14: relative flow change = 0.000131
+    18:15:33: Balanced after 14 trials
+    18:15:33: Tank D is emptying at 2.11 m
+    18:15:33: Tank E is filling at 2.69 m
+    18:15:33: CV 1196 changed from open to temporarily closed
+    18:15:33: CV 1783 changed from temporarily closed to open
+   
+    18:15:50: Balancing the network:
+              Trial  1: relative flow change = 0.000013
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.326422
+              Trial  3: relative flow change = 0.252578
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 0.173535
+              Trial  5: relative flow change = 0.000165
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.462621
+              Trial  7: relative flow change = 0.442196
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.280925
+              Trial  9: relative flow change = 0.000249
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 10: relative flow change = 0.428382
+              Trial 11: relative flow change = 0.398827
+              Trial 12: relative flow change = 0.111850
+              Trial 13: relative flow change = 0.009767
+              Trial 14: relative flow change = 0.000447
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 15: relative flow change = 0.049834
+              Trial 16: relative flow change = 0.004411
+              Trial 17: relative flow change = 0.000032
+    18:15:50: Balanced after 17 trials
+    18:15:50: Tank D is filling at 2.11 m
+    18:15:50: Tank E is emptying at 2.69 m
+    18:15:50: CV 1196 changed from temporarily closed to open
+    18:15:50: CV 1783 changed from open to temporarily closed
+   
+    18:16:01: Balancing the network:
+              Trial  1: relative flow change = 0.000006
+              CV 1196 switched from open to closed
+              Trial  2: relative flow change = 0.075504
+              Trial  3: relative flow change = 0.000034
+    18:16:01: Balanced after 3 trials
+    18:16:01: Tank D is emptying at 2.11 m
+    18:16:01: CV 1196 changed from open to temporarily closed
+   
+    18:16:14: Balancing the network:
+              Trial  1: relative flow change = 0.000010
+              CV 1196 switched from closed to open
+              Pipe 1740 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  2: relative flow change = 0.971700
+              Trial  3: relative flow change = 1.108140
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 1.048495
+              Trial  5: relative flow change = 0.894103
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.723038
+              Trial  7: relative flow change = 0.470475
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.268599
+              Trial  9: relative flow change = 0.140588
+              Trial 10: relative flow change = 0.066048
+              Trial 11: relative flow change = 0.029608
+              Trial 12: relative flow change = 0.011083
+              Trial 13: relative flow change = 0.002386
+              Trial 14: relative flow change = 0.000128
+    18:16:14: Balanced after 14 trials
+    18:16:14: Tank C is closed at 2.00 m
+    18:16:14: Tank D is filling at 2.11 m
+    18:16:14: Tank E is filling at 2.69 m
+    18:16:14: CV 1196 changed from temporarily closed to open
+    18:16:14: Pipe 1740 changed from open to temporarily closed
+    18:16:14: CV 1783 changed from temporarily closed to open
+   
+    18:16:19: Balancing the network:
+              Trial  1: relative flow change = 0.000004
+              CV 1196 switched from open to closed
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.100267
+              Trial  3: relative flow change = 0.000001
+    18:16:19: Balanced after 3 trials
+    18:16:19: Tank D is emptying at 2.11 m
+    18:16:19: Tank E is emptying at 2.69 m
+    18:16:19: CV 1196 changed from open to temporarily closed
+    18:16:19: CV 1783 changed from open to temporarily closed
+   
+    18:20:27: Balancing the network:
+              Trial  1: relative flow change = 0.000212
+              CV 1196 switched from closed to open
+              CV 1783 switched from closed to open
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  2: relative flow change = 1.023825
+              Trial  3: relative flow change = 1.173072
+              Pipe 788 switched from open to closed
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 1.187705
+              Trial  5: relative flow change = 1.132866
+              Pipe 788 switched from closed to open
+              CV 1653 switched from open to closed
+              Pipe 1740 switched from closed to open
+              Pump 5C switched from open to closed
+              Pump 6D switched from open to closed
+              Trial  6: relative flow change = 1.143055
+              Trial  7: relative flow change = 1.028218
+              Pump 5C switched from closed to open
+              Pump 6D switched from closed to open
+              Trial  8: relative flow change = 0.896357
+              Trial  9: relative flow change = 0.697999
+              CV 1154 switched from closed to open
+              CV 1653 switched from closed to open
+              Trial 10: relative flow change = 0.978342
+              Trial 11: relative flow change = 1.297375
+              Trial 12: relative flow change = 0.329273
+              Trial 13: relative flow change = 0.023346
+              Trial 14: relative flow change = 0.000554
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Pipe 1740 switched from open to closed
+              Trial 15: relative flow change = 0.540413
+              Trial 16: relative flow change = 0.025725
+              Trial 17: relative flow change = 0.000187
+    18:20:27: Balanced after 17 trials
+    18:20:27: Tank A is emptying at 3.37 m
+    18:20:27: Tank D is filling at 2.11 m
+    18:20:27: Tank E is filling at 2.69 m
+    18:20:27: CV 1196 changed from temporarily closed to open
+    18:20:27: CV 1783 changed from temporarily closed to open
+    18:20:27: Pipe 1879 changed from open to temporarily closed
+    18:20:27: Pipe p2 changed from open to temporarily closed
+   
+    18:21:47: Balancing the network:
+              Trial  1: relative flow change = 0.000045
+              CV 1783 switched from open to closed
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  2: relative flow change = 0.968940
+              Trial  3: relative flow change = 1.670834
+              Trial  4: relative flow change = 0.693483
+              Trial  5: relative flow change = 0.059029
+              Trial  6: relative flow change = 0.009273
+              Trial  7: relative flow change = 0.000014
+    18:21:47: Balanced after 7 trials
+    18:21:47: Tank A is filling at 3.37 m
+    18:21:47: Tank E is emptying at 2.69 m
+    18:21:47: CV 1783 changed from open to temporarily closed
+    18:21:47: Pipe 1879 changed from temporarily closed to open
+    18:21:47: Pipe p2 changed from temporarily closed to open
+   
+    18:21:59: Balancing the network:
+              Trial  1: relative flow change = 0.000008
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  2: relative flow change = 0.972741
+              Trial  3: relative flow change = 1.100663
+              Trial  4: relative flow change = 1.025732
+              Trial  5: relative flow change = 0.893496
+              Trial  6: relative flow change = 0.697878
+              Trial  7: relative flow change = 0.472748
+              Trial  8: relative flow change = 0.277666
+              Trial  9: relative flow change = 0.145920
+              Trial 10: relative flow change = 0.070953
+              Trial 11: relative flow change = 0.031893
+              Trial 12: relative flow change = 0.011948
+              Trial 13: relative flow change = 0.002573
+              Trial 14: relative flow change = 0.000138
+    18:21:59: Balanced after 14 trials
+    18:21:59: Tank D is emptying at 2.11 m
+    18:21:59: Tank E is filling at 2.69 m
+    18:21:59: CV 1196 changed from open to temporarily closed
+    18:21:59: CV 1783 changed from temporarily closed to open
+   
+    18:22:03: Balancing the network:
+              Trial  1: relative flow change = 0.000004
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.342085
+              Trial  3: relative flow change = 0.268290
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 0.186203
+              Trial  5: relative flow change = 0.000001
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.481521
+              Trial  7: relative flow change = 0.468761
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.303797
+              Trial  9: relative flow change = 0.000001
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 10: relative flow change = 0.446459
+              Trial 11: relative flow change = 0.422968
+              Trial 12: relative flow change = 0.120842
+              Trial 13: relative flow change = 0.010878
+              Trial 14: relative flow change = 0.000452
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 15: relative flow change = 0.052556
+              Trial 16: relative flow change = 0.004660
+              Trial 17: relative flow change = 0.000034
+    18:22:03: Balanced after 17 trials
+    18:22:03: Tank D is filling at 2.11 m
+    18:22:03: Tank E is emptying at 2.69 m
+    18:22:03: CV 1196 changed from temporarily closed to open
+    18:22:03: CV 1783 changed from open to temporarily closed
+   
+    18:22:06: Balancing the network:
+              Trial  1: relative flow change = 0.000002
+              CV 1196 switched from open to closed
+              Trial  2: relative flow change = 0.079872
+              Trial  3: relative flow change = 0.000001
+    18:22:06: Balanced after 3 trials
+    18:22:06: Tank D is emptying at 2.11 m
+    18:22:06: CV 1196 changed from open to temporarily closed
+   
+    18:22:27: Balancing the network:
+              Trial  1: relative flow change = 0.000018
+              CV 1196 switched from closed to open
+              CV 1783 switched from closed to open
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  2: relative flow change = 1.023824
+              Trial  3: relative flow change = 1.173071
+              Pipe 788 switched from open to closed
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 1.187701
+              Trial  5: relative flow change = 1.132867
+              Pipe 788 switched from closed to open
+              CV 1653 switched from open to closed
+              Pipe 1740 switched from closed to open
+              Pump 5C switched from open to closed
+              Pump 6D switched from open to closed
+              Trial  6: relative flow change = 1.143056
+              Trial  7: relative flow change = 1.028220
+              Pump 5C switched from closed to open
+              Pump 6D switched from closed to open
+              Trial  8: relative flow change = 0.896361
+              Trial  9: relative flow change = 0.698004
+              CV 1154 switched from closed to open
+              CV 1653 switched from closed to open
+              Trial 10: relative flow change = 0.978341
+              Trial 11: relative flow change = 1.297330
+              Trial 12: relative flow change = 0.329230
+              Trial 13: relative flow change = 0.023346
+              Trial 14: relative flow change = 0.000557
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Pipe 1740 switched from open to closed
+              Trial 15: relative flow change = 0.540413
+              Trial 16: relative flow change = 0.025722
+              Trial 17: relative flow change = 0.000186
+    18:22:27: Balanced after 17 trials
+    18:22:27: Tank A is emptying at 3.37 m
+    18:22:27: Tank D is filling at 2.11 m
+    18:22:27: Tank E is filling at 2.69 m
+    18:22:27: CV 1196 changed from temporarily closed to open
+    18:22:27: CV 1783 changed from temporarily closed to open
+    18:22:27: Pipe 1879 changed from open to temporarily closed
+    18:22:27: Pipe p2 changed from open to temporarily closed
+   
+    18:22:35: Balancing the network:
+              Trial  1: relative flow change = 0.000006
+              CV 1196 switched from open to closed
+              CV 1783 switched from open to closed
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  2: relative flow change = 0.999531
+              Trial  3: relative flow change = 1.742009
+              Trial  4: relative flow change = 0.744989
+              Trial  5: relative flow change = 0.063686
+              Trial  6: relative flow change = 0.010023
+              Trial  7: relative flow change = 0.000015
+    18:22:35: Balanced after 7 trials
+    18:22:35: Tank A is filling at 3.37 m
+    18:22:35: Tank D is emptying at 2.11 m
+    18:22:35: Tank E is emptying at 2.69 m
+    18:22:35: CV 1196 changed from open to temporarily closed
+    18:22:35: CV 1783 changed from open to temporarily closed
+    18:22:35: Pipe 1879 changed from temporarily closed to open
+    18:22:35: Pipe p2 changed from temporarily closed to open
+   
+    18:22:39: Balancing the network:
+              Trial  1: relative flow change = 0.000003
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  2: relative flow change = 8.734438
+              Trial  3: relative flow change = 0.000024
+    18:22:39: Balanced after 3 trials
+    18:22:39: Tank A is emptying at 3.37 m
+    18:22:39: Pipe 1879 changed from open to temporarily closed
+    18:22:39: Pipe p2 changed from open to temporarily closed
+   
+    19:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.037706
+              Trial  2: relative flow change = 0.000011
+              CV 1196 switched from closed to open
+              CV 1783 switched from closed to open
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  3: relative flow change = 0.997490
+              Trial  4: relative flow change = 1.242075
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  5: relative flow change = 1.142059
+              Trial  6: relative flow change = 0.913386
+              CV 1154 switched from closed to open
+              Trial  7: relative flow change = 0.732074
+              Trial  8: relative flow change = 0.478087
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial  9: relative flow change = 0.274111
+              Trial 10: relative flow change = 0.143658
+              Trial 11: relative flow change = 0.067676
+              Trial 12: relative flow change = 0.030448
+              Trial 13: relative flow change = 0.011524
+              Trial 14: relative flow change = 0.002563
+              Trial 15: relative flow change = 0.000148
+    19:00:00: Balanced after 15 trials
+    19:00:00: Tank A is filling at 3.32 m
+    19:00:00: Tank D is filling at 2.07 m
+    19:00:00: Tank E is filling at 2.66 m
+    19:00:00: CV 1196 changed from temporarily closed to open
+    19:00:00: CV 1783 changed from temporarily closed to open
+    19:00:00: Pipe 1879 changed from temporarily closed to open
+    19:00:00: Pipe p2 changed from temporarily closed to open
+   
+    19:11:02: Balancing the network:
+              Trial  1: relative flow change = 0.090559
+              Trial  2: relative flow change = 0.000000
+              CV 1196 switched from open to closed
+              Pipe 1740 switched from closed to open
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  3: relative flow change = 8.136295
+              Trial  4: relative flow change = 0.000029
+              CV 1210 switched from closed to open
+              Trial  5: relative flow change = 0.050208
+              Trial  6: relative flow change = 0.000014
+    19:11:02: Balanced after 6 trials
+    19:11:02: Tank C is emptying at 2.00 m
+    19:11:02: Tank A is emptying at 3.37 m
+    19:11:02: Tank D is emptying at 2.10 m
+    19:11:02: CV 1196 changed from open to closed
+    19:11:02: CV 1210 changed from closed to open
+    19:11:02: Pipe 1740 changed from temporarily closed to open
+    19:11:02: Pipe 1879 changed from open to temporarily closed
+    19:11:02: Pipe p2 changed from open to temporarily closed
+    19:11:02: Pump 5C changed from open to closed
+    19:11:02: Pump 6D changed from open to closed
+   
+    19:11:36: Balancing the network:
+              Trial  1: relative flow change = 0.000012
+              CV 1783 switched from open to closed
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  2: relative flow change = 0.986356
+              Trial  3: relative flow change = 1.753631
+              Trial  4: relative flow change = 0.766034
+              Trial  5: relative flow change = 0.067149
+              Trial  6: relative flow change = 0.008296
+              Trial  7: relative flow change = 0.000011
+    19:11:36: Balanced after 7 trials
+    19:11:36: Tank A is filling at 3.37 m
+    19:11:36: Tank E is emptying at 2.69 m
+    19:11:36: CV 1783 changed from open to temporarily closed
+    19:11:36: Pipe 1879 changed from temporarily closed to open
+    19:11:36: Pipe p2 changed from temporarily closed to open
+   
+    19:11:42: Balancing the network:
+              Trial  1: relative flow change = 0.000005
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  2: relative flow change = 9.882667
+              Trial  3: relative flow change = 0.000031
+    19:11:42: Balanced after 3 trials
+    19:11:42: Tank A is emptying at 3.37 m
+    19:11:42: Pipe 1879 changed from open to temporarily closed
+    19:11:42: Pipe p2 changed from open to temporarily closed
+   
+    20:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.125773
+              Trial  2: relative flow change = 0.000004
+              CV 1783 switched from closed to open
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  3: relative flow change = 0.994828
+              Trial  4: relative flow change = 1.339414
+              Trial  5: relative flow change = 1.044620
+              Trial  6: relative flow change = 0.627483
+              Trial  7: relative flow change = 0.383787
+              Trial  8: relative flow change = 0.209996
+              Trial  9: relative flow change = 0.106213
+              Trial 10: relative flow change = 0.050012
+              Trial 11: relative flow change = 0.021159
+              Trial 12: relative flow change = 0.006580
+              Trial 13: relative flow change = 0.000852
+    20:00:00: Balanced after 13 trials
+    20:00:00: Tank A is filling at 3.32 m
+    20:00:00: Tank E is filling at 2.65 m
+    20:00:00: CV 1783 changed from temporarily closed to open
+    20:00:00: Pipe 1879 changed from temporarily closed to open
+    20:00:00: Pipe p2 changed from temporarily closed to open
+   
+    20:08:28: Balancing the network:
+              Trial  1: relative flow change = 0.618982
+              Trial  2: relative flow change = 0.444341
+              Pipe 788 switched from open to closed
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  3: relative flow change = 0.361473
+              Trial  4: relative flow change = 0.001621
+              Pipe 788 switched from closed to open
+              CV 1210 switched from closed to open
+              CV 1653 switched from open to closed
+              Pump 6D switched from open to closed
+              Trial  5: relative flow change = 0.043474
+              Trial  6: relative flow change = 0.000001
+              Pump 6D switched from closed to open
+              Trial  7: relative flow change = 0.000001
+              CV 1154 switched from closed to open
+              Trial  8: relative flow change = 0.437724
+              Trial  9: relative flow change = 0.408211
+              Pipe 788 switched from open to closed
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial 10: relative flow change = 0.290786
+              Trial 11: relative flow change = 0.001161
+              Trial 12: relative flow change = 0.000028
+              Pipe 788 switched from closed to open
+              CV 1210 switched from closed to open
+              Pump 6D switched from open to closed
+              Trial 13: relative flow change = 0.035230
+              Trial 14: relative flow change = 0.000001
+              Pump 6D switched from closed to open
+              Trial 15: relative flow change = 0.000001
+              CV 1154 switched from closed to open
+              Trial 16: relative flow change = 0.437724
+              Trial 17: relative flow change = 0.408211
+              Trial 18: relative flow change = 0.121006
+              Trial 19: relative flow change = 0.011627
+              Trial 20: relative flow change = 0.000374
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 21: relative flow change = 0.048715
+              Trial 22: relative flow change = 0.004542
+              Trial 23: relative flow change = 0.000033
+    20:08:28: Balanced after 23 trials
+    20:08:28: Tank A is emptying at 3.37 m
+    20:08:28: Tank D is filling at 2.00 m
+    20:08:28: Tank B is filling at 2.12 m
+    20:08:28: CV 1196 changed from closed to open
+    20:08:28: CV 1210 changed from open to closed
+    20:08:28: CV 1653 changed from open to closed
+    20:08:28: Pipe 1879 changed from open to temporarily closed
+    20:08:28: Pipe p2 changed from open to temporarily closed
+    20:08:28: Pump 6D changed from closed to open
+    20:08:28: Pump 4B changed from closed to open
+   
+    20:13:52: Balancing the network:
+              Trial  1: relative flow change = 0.000447
+              CV 1783 switched from open to closed
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  2: relative flow change = 0.078367
+              Trial  3: relative flow change = 0.000824
+    20:13:52: Balanced after 3 trials
+    20:13:52: Tank E is emptying at 2.69 m
+    20:13:52: CV 1783 changed from open to temporarily closed
+    20:13:52: Pipe 1879 changed from temporarily closed to open
+    20:13:52: Pipe p2 changed from temporarily closed to open
+   
+    20:35:11: Balancing the network:
+              Trial  1: relative flow change = 0.002775
+              Trial  2: relative flow change = 0.000004
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  3: relative flow change = 0.973418
+              Trial  4: relative flow change = 1.102846
+              Trial  5: relative flow change = 1.029862
+              Trial  6: relative flow change = 0.900336
+              Trial  7: relative flow change = 0.707008
+              Trial  8: relative flow change = 0.481940
+              Trial  9: relative flow change = 0.284656
+              Trial 10: relative flow change = 0.150256
+              Trial 11: relative flow change = 0.073427
+              Trial 12: relative flow change = 0.033418
+              Trial 13: relative flow change = 0.013070
+              Trial 14: relative flow change = 0.003205
+              Trial 15: relative flow change = 0.000232
+    20:35:11: Balanced after 15 trials
+    20:35:11: Tank A is filling at 3.35 m
+    20:35:11: Tank D is emptying at 2.11 m
+    20:35:11: Tank E is filling at 2.68 m
+    20:35:11: CV 1196 changed from open to temporarily closed
+    20:35:11: CV 1783 changed from temporarily closed to open
+   
+    20:40:29: Balancing the network:
+              Trial  1: relative flow change = 0.000637
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.333663
+              Trial  3: relative flow change = 0.260386
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 0.177803
+              Trial  5: relative flow change = 0.000001
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.462382
+              Trial  7: relative flow change = 0.441869
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.283166
+              Trial  9: relative flow change = 0.000001
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 10: relative flow change = 0.432009
+              Trial 11: relative flow change = 0.403489
+              Trial 12: relative flow change = 0.117248
+              Trial 13: relative flow change = 0.011087
+              Trial 14: relative flow change = 0.000432
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 15: relative flow change = 0.049127
+              Trial 16: relative flow change = 0.004415
+              Trial 17: relative flow change = 0.000033
+    20:40:29: Balanced after 17 trials
+    20:40:29: Tank A is emptying at 3.36 m
+    20:40:29: Tank D is filling at 2.10 m
+    20:40:29: Tank E is emptying at 2.69 m
+    20:40:29: CV 1196 changed from temporarily closed to open
+    20:40:29: CV 1783 changed from open to temporarily closed
+   
+    20:43:25: Balancing the network:
+              Trial  1: relative flow change = 0.000374
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  2: relative flow change = 0.973422
+              Trial  3: relative flow change = 1.102853
+              Trial  4: relative flow change = 1.029876
+              Trial  5: relative flow change = 0.900359
+              Trial  6: relative flow change = 0.707039
+              Trial  7: relative flow change = 0.481971
+              Trial  8: relative flow change = 0.284680
+              Trial  9: relative flow change = 0.150270
+              Trial 10: relative flow change = 0.073434
+              Trial 11: relative flow change = 0.033422
+              Trial 12: relative flow change = 0.013071
+              Trial 13: relative flow change = 0.003205
+              Trial 14: relative flow change = 0.000232
+    20:43:25: Balanced after 14 trials
+    20:43:25: Tank A is filling at 3.36 m
+    20:43:25: Tank D is emptying at 2.11 m
+    20:43:25: Tank E is filling at 2.69 m
+    20:43:25: CV 1196 changed from open to temporarily closed
+    20:43:25: CV 1783 changed from temporarily closed to open
+   
+    20:44:09: Balancing the network:
+              Trial  1: relative flow change = 0.000089
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.333631
+              Trial  3: relative flow change = 0.260352
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 0.177773
+              Trial  5: relative flow change = 0.000001
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.462342
+              Trial  7: relative flow change = 0.441822
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.283110
+              Trial  9: relative flow change = 0.000000
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 10: relative flow change = 0.431969
+              Trial 11: relative flow change = 0.403443
+              Trial 12: relative flow change = 0.117212
+              Trial 13: relative flow change = 0.011079
+              Trial 14: relative flow change = 0.000433
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 15: relative flow change = 0.049127
+              Trial 16: relative flow change = 0.004415
+              Trial 17: relative flow change = 0.000033
+    20:44:09: Balanced after 17 trials
+    20:44:09: Tank A is emptying at 3.36 m
+    20:44:09: Tank D is filling at 2.11 m
+    20:44:09: Tank E is emptying at 2.69 m
+    20:44:09: CV 1196 changed from temporarily closed to open
+    20:44:09: CV 1783 changed from open to temporarily closed
+   
+    20:44:33: Balancing the network:
+              Trial  1: relative flow change = 0.000051
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  2: relative flow change = 0.973422
+              Trial  3: relative flow change = 1.102854
+              Trial  4: relative flow change = 1.029878
+              Trial  5: relative flow change = 0.900362
+              Trial  6: relative flow change = 0.707043
+              Trial  7: relative flow change = 0.481975
+              Trial  8: relative flow change = 0.284683
+              Trial  9: relative flow change = 0.150272
+              Trial 10: relative flow change = 0.073435
+              Trial 11: relative flow change = 0.033422
+              Trial 12: relative flow change = 0.013070
+              Trial 13: relative flow change = 0.003205
+              Trial 14: relative flow change = 0.000232
+    20:44:33: Balanced after 14 trials
+    20:44:33: Tank A is filling at 3.36 m
+    20:44:33: Tank D is emptying at 2.11 m
+    20:44:33: Tank E is filling at 2.69 m
+    20:44:33: CV 1196 changed from open to temporarily closed
+    20:44:33: CV 1783 changed from temporarily closed to open
+   
+    20:44:39: Balancing the network:
+              Trial  1: relative flow change = 0.000013
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.333626
+              Trial  3: relative flow change = 0.260347
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 0.177769
+              Trial  5: relative flow change = 0.000000
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.462336
+              Trial  7: relative flow change = 0.441816
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.283102
+              Trial  9: relative flow change = 0.000000
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 10: relative flow change = 0.431963
+              Trial 11: relative flow change = 0.403436
+              Trial 12: relative flow change = 0.117207
+              Trial 13: relative flow change = 0.011077
+              Trial 14: relative flow change = 0.000434
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 15: relative flow change = 0.049127
+              Trial 16: relative flow change = 0.004414
+              Trial 17: relative flow change = 0.000033
+    20:44:39: Balanced after 17 trials
+    20:44:39: Tank A is emptying at 3.36 m
+    20:44:39: Tank D is filling at 2.11 m
+    20:44:39: Tank E is emptying at 2.69 m
+    20:44:39: CV 1196 changed from temporarily closed to open
+    20:44:39: CV 1783 changed from open to temporarily closed
+   
+    20:44:42: Balancing the network:
+              Trial  1: relative flow change = 0.000007
+              CV 1196 switched from open to closed
+              Trial  2: relative flow change = 0.074171
+              Trial  3: relative flow change = 0.000001
+    20:44:42: Balanced after 3 trials
+    20:44:42: Tank A is filling at 3.36 m
+    20:44:42: Tank D is emptying at 2.11 m
+    20:44:42: CV 1196 changed from open to temporarily closed
+   
+    20:53:22: Balancing the network:
+              Trial  1: relative flow change = 0.001041
+              Trial  2: relative flow change = 0.000001
+              CV 1196 switched from closed to open
+              CV 1783 switched from closed to open
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  3: relative flow change = 0.974054
+              Trial  4: relative flow change = 1.110823
+              Pipe 788 switched from open to closed
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  5: relative flow change = 1.054664
+              Trial  6: relative flow change = 0.900163
+              Pipe 788 switched from closed to open
+              Pump 6D switched from open to closed
+              Trial  7: relative flow change = 0.729044
+              Trial  8: relative flow change = 0.486271
+              Pump 6D switched from closed to open
+              Trial  9: relative flow change = 0.287952
+              Trial 10: relative flow change = 0.152260
+              CV 1154 switched from closed to open
+              Trial 11: relative flow change = 0.380951
+              Trial 12: relative flow change = 0.273420
+              Trial 13: relative flow change = 0.055011
+              Trial 14: relative flow change = 0.004214
+              Trial 15: relative flow change = 0.000215
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 16: relative flow change = 0.048788
+              Trial 17: relative flow change = 0.004544
+              Trial 18: relative flow change = 0.000034
+    20:53:22: Balanced after 18 trials
+    20:53:22: Tank A is emptying at 3.37 m
+    20:53:22: Tank D is filling at 2.10 m
+    20:53:22: Tank E is filling at 2.68 m
+    20:53:22: CV 1196 changed from temporarily closed to open
+    20:53:22: CV 1783 changed from temporarily closed to open
+    20:53:22: Pipe 1879 changed from open to temporarily closed
+    20:53:22: Pipe p2 changed from open to temporarily closed
+   
+    20:55:32: Balancing the network:
+              Trial  1: relative flow change = 0.000179
+              CV 1783 switched from open to closed
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  2: relative flow change = 0.084798
+              Trial  3: relative flow change = 0.001011
+              Trial  4: relative flow change = 0.000001
+    20:55:32: Balanced after 4 trials
+    20:55:32: Tank E is emptying at 2.69 m
+    20:55:32: CV 1783 changed from open to temporarily closed
+    20:55:32: Pipe 1879 changed from temporarily closed to open
+    20:55:32: Pipe p2 changed from temporarily closed to open
+   
+    20:55:49: Balancing the network:
+              Trial  1: relative flow change = 0.000036
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  2: relative flow change = 0.973437
+              Trial  3: relative flow change = 1.102889
+              Trial  4: relative flow change = 1.029944
+              Trial  5: relative flow change = 0.900473
+              Trial  6: relative flow change = 0.707191
+              Trial  7: relative flow change = 0.482124
+              Trial  8: relative flow change = 0.284796
+              Trial  9: relative flow change = 0.150341
+              Trial 10: relative flow change = 0.073471
+              Trial 11: relative flow change = 0.033439
+              Trial 12: relative flow change = 0.013077
+              Trial 13: relative flow change = 0.003207
+              Trial 14: relative flow change = 0.000232
+    20:55:49: Balanced after 14 trials
+    20:55:49: Tank A is filling at 3.36 m
+    20:55:49: Tank D is emptying at 2.11 m
+    20:55:49: Tank E is filling at 2.69 m
+    20:55:49: CV 1196 changed from open to temporarily closed
+    20:55:49: CV 1783 changed from temporarily closed to open
+   
+    20:55:53: Balancing the network:
+              Trial  1: relative flow change = 0.000009
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.333779
+              Trial  3: relative flow change = 0.260498
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 0.177891
+              Trial  5: relative flow change = 0.000001
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.462508
+              Trial  7: relative flow change = 0.442048
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.283301
+              Trial  9: relative flow change = 0.000000
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 10: relative flow change = 0.432132
+              Trial 11: relative flow change = 0.403655
+              Trial 12: relative flow change = 0.117288
+              Trial 13: relative flow change = 0.011088
+              Trial 14: relative flow change = 0.000433
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 15: relative flow change = 0.049154
+              Trial 16: relative flow change = 0.004417
+              Trial 17: relative flow change = 0.000033
+    20:55:53: Balanced after 17 trials
+    20:55:53: Tank A is emptying at 3.36 m
+    20:55:53: Tank D is filling at 2.11 m
+    20:55:53: Tank E is emptying at 2.69 m
+    20:55:53: CV 1196 changed from temporarily closed to open
+    20:55:53: CV 1783 changed from open to temporarily closed
+   
+    20:55:55: Balancing the network:
+              Trial  1: relative flow change = 0.000004
+              CV 1196 switched from open to closed
+              Trial  2: relative flow change = 0.074215
+              Trial  3: relative flow change = 0.000001
+    20:55:55: Balanced after 3 trials
+    20:55:55: Tank A is filling at 3.36 m
+    20:55:55: Tank D is emptying at 2.11 m
+    20:55:55: CV 1196 changed from open to temporarily closed
+   
+    21:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.002066
+              Trial  2: relative flow change = 0.000000
+              CV 1196 switched from closed to open
+              CV 1783 switched from closed to open
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  3: relative flow change = 0.974559
+              Trial  4: relative flow change = 1.111977
+              Pipe 788 switched from open to closed
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  5: relative flow change = 1.056748
+              Trial  6: relative flow change = 0.904164
+              Pipe 788 switched from closed to open
+              Pump 6D switched from open to closed
+              Trial  7: relative flow change = 0.733693
+              Trial  8: relative flow change = 0.491634
+              Pump 6D switched from closed to open
+              Trial  9: relative flow change = 0.292062
+              Trial 10: relative flow change = 0.154783
+              CV 1154 switched from closed to open
+              Trial 11: relative flow change = 0.381114
+              Trial 12: relative flow change = 0.272345
+              Trial 13: relative flow change = 0.054547
+              Trial 14: relative flow change = 0.004319
+              Trial 15: relative flow change = 0.000233
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 16: relative flow change = 0.048975
+              Trial 17: relative flow change = 0.004569
+              Trial 18: relative flow change = 0.000034
+    21:00:00: Balanced after 18 trials
+    21:00:00: Tank A is emptying at 3.37 m
+    21:00:00: Tank D is filling at 2.11 m
+    21:00:00: Tank E is filling at 2.69 m
+    21:00:00: CV 1196 changed from temporarily closed to open
+    21:00:00: CV 1783 changed from temporarily closed to open
+    21:00:00: Pipe 1879 changed from open to temporarily closed
+    21:00:00: Pipe p2 changed from open to temporarily closed
+   
+    21:01:01: Balancing the network:
+              Trial  1: relative flow change = 5.423294
+              Trial  2: relative flow change = 0.000018
+              CV 1783 switched from open to closed
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  3: relative flow change = 0.973065
+              Trial  4: relative flow change = 1.688329
+              Trial  5: relative flow change = 0.719466
+              Trial  6: relative flow change = 0.063116
+              Trial  7: relative flow change = 0.008482
+              Trial  8: relative flow change = 0.000012
+    21:01:01: Balanced after 8 trials
+    21:01:01: Tank A is filling at 3.37 m
+    21:01:01: Tank B is emptying at 2.62 m
+    21:01:01: Tank E is emptying at 2.69 m
+    21:01:01: CV 1783 changed from open to temporarily closed
+    21:01:01: Pipe 1879 changed from temporarily closed to open
+    21:01:01: Pipe p2 changed from temporarily closed to open
+    21:01:01: Pump 4B changed from open to closed
+   
+    21:01:09: Balancing the network:
+              Trial  1: relative flow change = 0.000005
+              CV 1196 switched from open to closed
+              Trial  2: relative flow change = 0.082260
+              Trial  3: relative flow change = 0.000001
+    21:01:09: Balanced after 3 trials
+    21:01:09: Tank D is emptying at 2.11 m
+    21:01:09: CV 1196 changed from open to temporarily closed
+   
+    21:01:28: Balancing the network:
+              Trial  1: relative flow change = 0.000017
+              CV 1196 switched from closed to open
+              CV 1783 switched from closed to open
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  2: relative flow change = 1.021562
+              Trial  3: relative flow change = 1.174909
+              Pipe 788 switched from open to closed
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 1.187275
+              Trial  5: relative flow change = 1.143549
+              Pipe 788 switched from closed to open
+              Pump 6D switched from open to closed
+              Trial  6: relative flow change = 1.147521
+              Trial  7: relative flow change = 1.063970
+              Pump 6D switched from closed to open
+              Trial  8: relative flow change = 0.957682
+              Trial  9: relative flow change = 0.784152
+              CV 1154 switched from closed to open
+              Trial 10: relative flow change = 1.004878
+              Trial 11: relative flow change = 1.295531
+              Trial 12: relative flow change = 0.326329
+              Trial 13: relative flow change = 0.026246
+              Trial 14: relative flow change = 0.001417
+              Trial 15: relative flow change = 0.000012
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 16: relative flow change = 0.307438
+              Trial 17: relative flow change = 0.029344
+              Trial 18: relative flow change = 0.000226
+    21:01:28: Balanced after 18 trials
+    21:01:28: Tank A is emptying at 3.37 m
+    21:01:28: Tank D is filling at 2.11 m
+    21:01:28: Tank E is filling at 2.69 m
+    21:01:28: CV 1196 changed from temporarily closed to open
+    21:01:28: CV 1783 changed from temporarily closed to open
+    21:01:28: Pipe 1879 changed from open to temporarily closed
+    21:01:28: Pipe p2 changed from open to temporarily closed
+   
+    21:01:34: Balancing the network:
+              Trial  1: relative flow change = 0.000008
+              CV 1196 switched from open to closed
+              CV 1783 switched from open to closed
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  2: relative flow change = 1.003797
+              Trial  3: relative flow change = 1.760926
+              Trial  4: relative flow change = 0.774318
+              Trial  5: relative flow change = 0.068251
+              Trial  6: relative flow change = 0.009186
+              Trial  7: relative flow change = 0.000013
+    21:01:34: Balanced after 7 trials
+    21:01:34: Tank A is filling at 3.37 m
+    21:01:34: Tank D is emptying at 2.11 m
+    21:01:34: Tank E is emptying at 2.69 m
+    21:01:34: CV 1196 changed from open to temporarily closed
+    21:01:34: CV 1783 changed from open to temporarily closed
+    21:01:34: Pipe 1879 changed from temporarily closed to open
+    21:01:34: Pipe p2 changed from temporarily closed to open
+   
+    21:01:36: Balancing the network:
+              Trial  1: relative flow change = 0.000003
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  2: relative flow change = 11.067265
+              Trial  3: relative flow change = 0.000036
+    21:01:36: Balanced after 3 trials
+    21:01:36: Tank A is emptying at 3.37 m
+    21:01:36: Pipe 1879 changed from open to temporarily closed
+    21:01:36: Pipe p2 changed from open to temporarily closed
+   
+    22:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.041288
+              Trial  2: relative flow change = 0.000004
+              CV 1196 switched from closed to open
+              CV 1783 switched from closed to open
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  3: relative flow change = 0.997972
+              Trial  4: relative flow change = 1.238632
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  5: relative flow change = 1.146519
+              Trial  6: relative flow change = 0.930823
+              CV 1154 switched from closed to open
+              Trial  7: relative flow change = 0.754306
+              Trial  8: relative flow change = 0.504803
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial  9: relative flow change = 0.293870
+              Trial 10: relative flow change = 0.155000
+              Trial 11: relative flow change = 0.073654
+              Trial 12: relative flow change = 0.033463
+              Trial 13: relative flow change = 0.013019
+              Trial 14: relative flow change = 0.003141
+              Trial 15: relative flow change = 0.000219
+    22:00:00: Balanced after 15 trials
+    22:00:00: Tank A is filling at 3.31 m
+    22:00:00: Tank D is filling at 2.06 m
+    22:00:00: Tank E is filling at 2.65 m
+    22:00:00: CV 1196 changed from temporarily closed to open
+    22:00:00: CV 1783 changed from temporarily closed to open
+    22:00:00: Pipe 1879 changed from temporarily closed to open
+    22:00:00: Pipe p2 changed from temporarily closed to open
+   
+    22:12:46: Balancing the network:
+              Trial  1: relative flow change = 0.000523
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  2: relative flow change = 4.846419
+              Trial  3: relative flow change = 0.000015
+    22:12:46: Balanced after 3 trials
+    22:12:46: Tank A is emptying at 3.37 m
+    22:12:46: Pipe 1879 changed from open to temporarily closed
+    22:12:46: Pipe p2 changed from open to temporarily closed
+   
+    22:14:16: Balancing the network:
+              Trial  1: relative flow change = 0.000051
+              CV 1783 switched from open to closed
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  2: relative flow change = 0.972432
+              Trial  3: relative flow change = 1.685848
+              Trial  4: relative flow change = 0.716620
+              Trial  5: relative flow change = 0.062720
+              Trial  6: relative flow change = 0.008305
+              Trial  7: relative flow change = 0.000012
+    22:14:16: Balanced after 7 trials
+    22:14:16: Tank A is filling at 3.37 m
+    22:14:16: Tank E is emptying at 2.69 m
+    22:14:16: CV 1783 changed from open to temporarily closed
+    22:14:16: Pipe 1879 changed from temporarily closed to open
+    22:14:16: Pipe p2 changed from temporarily closed to open
+   
+    22:15:02: Balancing the network:
+              Trial  1: relative flow change = 0.000030
+              CV 1783 switched from closed to open
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  2: relative flow change = 1.020211
+              Trial  3: relative flow change = 1.162158
+              Trial  4: relative flow change = 1.148882
+              Trial  5: relative flow change = 1.121030
+              Trial  6: relative flow change = 1.064856
+              Trial  7: relative flow change = 0.960048
+              Trial  8: relative flow change = 0.790169
+              Trial  9: relative flow change = 0.568820
+              Trial 10: relative flow change = 0.349294
+              Trial 11: relative flow change = 0.181511
+              Trial 12: relative flow change = 0.074935
+              Trial 13: relative flow change = 0.018354
+              Trial 14: relative flow change = 0.001282
+              Trial 15: relative flow change = 0.000008
+    22:15:02: Balanced after 15 trials
+    22:15:02: Tank A is emptying at 3.37 m
+    22:15:02: Tank E is filling at 2.69 m
+    22:15:02: CV 1783 changed from temporarily closed to open
+    22:15:02: Pipe 1879 changed from open to temporarily closed
+    22:15:02: Pipe p2 changed from open to temporarily closed
+   
+    22:15:14: Balancing the network:
+              Trial  1: relative flow change = 0.000007
+              CV 1783 switched from open to closed
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  2: relative flow change = 0.972430
+              Trial  3: relative flow change = 1.685834
+              Trial  4: relative flow change = 0.716558
+              Trial  5: relative flow change = 0.062707
+              Trial  6: relative flow change = 0.008313
+              Trial  7: relative flow change = 0.000011
+    22:15:14: Balanced after 7 trials
+    22:15:14: Tank A is filling at 3.37 m
+    22:15:14: Tank E is emptying at 2.69 m
+    22:15:14: CV 1783 changed from open to temporarily closed
+    22:15:14: Pipe 1879 changed from temporarily closed to open
+    22:15:14: Pipe p2 changed from temporarily closed to open
+   
+    22:15:20: Balancing the network:
+              Trial  1: relative flow change = 0.000004
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  2: relative flow change = 5.441168
+              Trial  3: relative flow change = 0.000016
+    22:15:20: Balanced after 3 trials
+    22:15:20: Tank A is emptying at 3.37 m
+    22:15:20: Pipe 1879 changed from open to temporarily closed
+    22:15:20: Pipe p2 changed from open to temporarily closed
+   
+    22:16:20: Balancing the network:
+              Trial  1: relative flow change = 0.000054
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  2: relative flow change = 0.999893
+              Trial  3: relative flow change = 1.232982
+              Trial  4: relative flow change = 1.124680
+              Trial  5: relative flow change = 0.930354
+              Trial  6: relative flow change = 0.733363
+              Trial  7: relative flow change = 0.505507
+              Trial  8: relative flow change = 0.302778
+              Trial  9: relative flow change = 0.161350
+              Trial 10: relative flow change = 0.079250
+              Trial 11: relative flow change = 0.036115
+              Trial 12: relative flow change = 0.014065
+              Trial 13: relative flow change = 0.003395
+              Trial 14: relative flow change = 0.000237
+    22:16:20: Balanced after 14 trials
+    22:16:20: Tank A is filling at 3.37 m
+    22:16:20: Tank D is emptying at 2.11 m
+    22:16:20: Tank E is filling at 2.69 m
+    22:16:20: CV 1196 changed from open to temporarily closed
+    22:16:20: CV 1783 changed from temporarily closed to open
+    22:16:20: Pipe 1879 changed from temporarily closed to open
+    22:16:20: Pipe p2 changed from temporarily closed to open
+   
+    22:16:37: Balancing the network:
+              Trial  1: relative flow change = 0.000017
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.354880
+              Trial  3: relative flow change = 0.281554
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 0.195216
+              Trial  5: relative flow change = 0.000001
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.486970
+              Trial  7: relative flow change = 0.476567
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.311951
+              Trial  9: relative flow change = 0.000000
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 10: relative flow change = 0.455679
+              Trial 11: relative flow change = 0.435259
+              Trial 12: relative flow change = 0.127312
+              Trial 13: relative flow change = 0.011978
+              Trial 14: relative flow change = 0.000470
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 15: relative flow change = 0.053717
+              Trial 16: relative flow change = 0.004821
+              Trial 17: relative flow change = 0.000036
+    22:16:37: Balanced after 17 trials
+    22:16:37: Tank D is filling at 2.11 m
+    22:16:37: Tank E is emptying at 2.69 m
+    22:16:37: CV 1196 changed from temporarily closed to open
+    22:16:37: CV 1783 changed from open to temporarily closed
+   
+    22:16:46: Balancing the network:
+              Trial  1: relative flow change = 0.000006
+              CV 1196 switched from open to closed
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  2: relative flow change = 11.546176
+              Trial  3: relative flow change = 0.000039
+    22:16:46: Balanced after 3 trials
+    22:16:46: Tank A is emptying at 3.37 m
+    22:16:46: Tank D is emptying at 2.11 m
+    22:16:46: CV 1196 changed from open to temporarily closed
+    22:16:46: Pipe 1879 changed from open to temporarily closed
+    22:16:46: Pipe p2 changed from open to temporarily closed
+   
+    23:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.185062
+              Trial  2: relative flow change = 0.000010
+              CV 1196 switched from closed to open
+              CV 1783 switched from closed to open
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  3: relative flow change = 0.997137
+              Trial  4: relative flow change = 1.246376
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  5: relative flow change = 1.137741
+              Trial  6: relative flow change = 0.895544
+              CV 1154 switched from closed to open
+              Trial  7: relative flow change = 0.710995
+              Trial  8: relative flow change = 0.452048
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial  9: relative flow change = 0.255555
+              Trial 10: relative flow change = 0.133299
+              Trial 11: relative flow change = 0.062245
+              Trial 12: relative flow change = 0.027690
+              Trial 13: relative flow change = 0.010133
+              Trial 14: relative flow change = 0.002044
+              Trial 15: relative flow change = 0.000095
+    23:00:00: Balanced after 15 trials
+    23:00:00: Tank A is filling at 3.32 m
+    23:00:00: Tank D is filling at 2.07 m
+    23:00:00: Tank E is filling at 2.66 m
+    23:00:00: CV 1196 changed from temporarily closed to open
+    23:00:00: CV 1783 changed from temporarily closed to open
+    23:00:00: Pipe 1879 changed from temporarily closed to open
+    23:00:00: Pipe p2 changed from temporarily closed to open
+   
+    23:10:36: Balancing the network:
+              Trial  1: relative flow change = 0.291339
+              Trial  2: relative flow change = 0.041042
+              CV 1653 switched from closed to open
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  3: relative flow change = 0.190503
+              Trial  4: relative flow change = 0.087655
+              CV 1653 switched from open to closed
+              Trial  5: relative flow change = 0.068860
+              Trial  6: relative flow change = 0.000033
+              CV 1653 switched from closed to open
+              Trial  7: relative flow change = 0.139564
+              Trial  8: relative flow change = 0.087167
+              CV 1653 switched from open to closed
+              Trial  9: relative flow change = 0.068860
+              Trial 10: relative flow change = 0.000033
+              CV 1653 switched from closed to open
+              Trial 11: relative flow change = 0.139564
+              Trial 12: relative flow change = 0.087167
+              Trial 13: relative flow change = 0.014678
+              Trial 14: relative flow change = 0.001487
+              Trial 15: relative flow change = 0.000007
+    23:10:36: Balanced after 15 trials
+    23:10:36: Tank C is filling at 1.82 m
+    23:10:36: Tank A is emptying at 3.37 m
+    23:10:36: Tank B is filling at 2.35 m
+    23:10:36: CV 1653 changed from closed to open
+    23:10:36: Pipe 1879 changed from open to temporarily closed
+    23:10:36: Pipe p2 changed from open to temporarily closed
+    23:10:36: Pump 5C changed from closed to open
+    23:10:36: Pump 4B changed from closed to open
+   
+    23:11:57: Balancing the network:
+              Trial  1: relative flow change = 0.000106
+              CV 1783 switched from open to closed
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  2: relative flow change = 0.073900
+              Trial  3: relative flow change = 0.000781
+    23:11:57: Balanced after 3 trials
+    23:11:57: Tank E is emptying at 2.69 m
+    23:11:57: CV 1783 changed from open to temporarily closed
+    23:11:57: Pipe 1879 changed from temporarily closed to open
+    23:11:57: Pipe p2 changed from temporarily closed to open
+   
+    23:14:06: Balancing the network:
+              Trial  1: relative flow change = 0.000294
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  2: relative flow change = 0.966047
+              Trial  3: relative flow change = 1.084620
+              Trial  4: relative flow change = 0.995888
+              Trial  5: relative flow change = 0.845516
+              Trial  6: relative flow change = 0.636543
+              Trial  7: relative flow change = 0.413987
+              Trial  8: relative flow change = 0.235018
+              Trial  9: relative flow change = 0.120754
+              Trial 10: relative flow change = 0.057919
+              Trial 11: relative flow change = 0.025730
+              Trial 12: relative flow change = 0.009409
+              Trial 13: relative flow change = 0.001898
+              Trial 14: relative flow change = 0.000088
+    23:14:06: Balanced after 14 trials
+    23:14:06: Tank A is filling at 3.36 m
+    23:14:06: Tank D is emptying at 2.11 m
+    23:14:06: Tank E is filling at 2.69 m
+    23:14:06: CV 1196 changed from open to temporarily closed
+    23:14:06: CV 1783 changed from temporarily closed to open
+   
+    23:14:51: Balancing the network:
+              Trial  1: relative flow change = 0.000087
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.298622
+              Trial  3: relative flow change = 0.226025
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 0.153600
+              Trial  5: relative flow change = 0.000143
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.435316
+              Trial  7: relative flow change = 0.405498
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.251311
+              Trial  9: relative flow change = 0.000220
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 10: relative flow change = 0.399666
+              Trial 11: relative flow change = 0.362488
+              Trial 12: relative flow change = 0.099656
+              Trial 13: relative flow change = 0.008509
+              Trial 14: relative flow change = 0.000399
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 15: relative flow change = 0.044912
+              Trial 16: relative flow change = 0.003947
+              Trial 17: relative flow change = 0.000028
+    23:14:51: Balanced after 17 trials
+    23:14:51: Tank A is emptying at 3.36 m
+    23:14:51: Tank D is filling at 2.11 m
+    23:14:51: Tank E is emptying at 2.69 m
+    23:14:51: CV 1196 changed from temporarily closed to open
+    23:14:51: CV 1783 changed from open to temporarily closed
+   
+    23:15:21: Balancing the network:
+              Trial  1: relative flow change = 0.000068
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  2: relative flow change = 0.966048
+              Trial  3: relative flow change = 1.084622
+              Trial  4: relative flow change = 0.995890
+              Trial  5: relative flow change = 0.845521
+              Trial  6: relative flow change = 0.636548
+              Trial  7: relative flow change = 0.413992
+              Trial  8: relative flow change = 0.235021
+              Trial  9: relative flow change = 0.120756
+              Trial 10: relative flow change = 0.057920
+              Trial 11: relative flow change = 0.025730
+              Trial 12: relative flow change = 0.009409
+              Trial 13: relative flow change = 0.001898
+              Trial 14: relative flow change = 0.000088
+    23:15:21: Balanced after 14 trials
+    23:15:21: Tank A is filling at 3.36 m
+    23:15:21: Tank D is emptying at 2.11 m
+    23:15:21: Tank E is filling at 2.69 m
+    23:15:21: CV 1196 changed from open to temporarily closed
+    23:15:21: CV 1783 changed from temporarily closed to open
+   
+    23:15:31: Balancing the network:
+              Trial  1: relative flow change = 0.000019
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.298614
+              Trial  3: relative flow change = 0.226018
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 0.153594
+              Trial  5: relative flow change = 0.000143
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.435307
+              Trial  7: relative flow change = 0.405487
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.251301
+              Trial  9: relative flow change = 0.000220
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 10: relative flow change = 0.399657
+              Trial 11: relative flow change = 0.362478
+              Trial 12: relative flow change = 0.099649
+              Trial 13: relative flow change = 0.008508
+              Trial 14: relative flow change = 0.000400
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 15: relative flow change = 0.044911
+              Trial 16: relative flow change = 0.003947
+              Trial 17: relative flow change = 0.000028
+    23:15:31: Balanced after 17 trials
+    23:15:31: Tank A is emptying at 3.36 m
+    23:15:31: Tank D is filling at 2.11 m
+    23:15:31: Tank E is emptying at 2.69 m
+    23:15:31: CV 1196 changed from temporarily closed to open
+    23:15:31: CV 1783 changed from open to temporarily closed
+   
+    23:15:38: Balancing the network:
+              Trial  1: relative flow change = 0.000016
+              CV 1196 switched from open to closed
+              Trial  2: relative flow change = 0.067547
+              Trial  3: relative flow change = 0.000030
+    23:15:38: Balanced after 3 trials
+    23:15:38: Tank A is filling at 3.36 m
+    23:15:38: Tank D is emptying at 2.11 m
+    23:15:38: CV 1196 changed from open to temporarily closed
+   
+    23:33:53: Balancing the network:
+              Trial  1: relative flow change = 0.002112
+              Trial  2: relative flow change = 0.000002
+              CV 1196 switched from closed to open
+              Pipe 1740 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  3: relative flow change = 0.966725
+              Trial  4: relative flow change = 1.096367
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  5: relative flow change = 1.026269
+              Trial  6: relative flow change = 0.857701
+              CV 1154 switched from closed to open
+              Trial  7: relative flow change = 0.677676
+              Trial  8: relative flow change = 0.424928
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial  9: relative flow change = 0.237042
+              Trial 10: relative flow change = 0.122461
+              Trial 11: relative flow change = 0.056896
+              Trial 12: relative flow change = 0.025251
+              Trial 13: relative flow change = 0.009232
+              Trial 14: relative flow change = 0.001862
+              Trial 15: relative flow change = 0.000087
+    23:33:53: Balanced after 15 trials
+    23:33:53: Tank C is closed at 2.00 m
+    23:33:53: Tank A is emptying at 3.37 m
+    23:33:53: Tank D is filling at 2.09 m
+    23:33:53: Tank E is filling at 2.67 m
+    23:33:53: CV 1196 changed from temporarily closed to open
+    23:33:53: Pipe 1740 changed from open to temporarily closed
+    23:33:53: CV 1783 changed from temporarily closed to open
+   
+    23:40:18: Balancing the network:
+              Trial  1: relative flow change = 0.000776
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.017123
+              Trial  3: relative flow change = 0.000000
+    23:40:18: Balanced after 3 trials
+    23:40:18: Tank E is emptying at 2.69 m
+    23:40:18: CV 1783 changed from open to temporarily closed
+   
+    23:41:26: Balancing the network:
+              Trial  1: relative flow change = 0.000140
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  2: relative flow change = 0.967756
+              Trial  3: relative flow change = 1.088615
+              Trial  4: relative flow change = 1.003240
+              Trial  5: relative flow change = 0.857110
+              Trial  6: relative flow change = 0.650953
+              Trial  7: relative flow change = 0.427364
+              Trial  8: relative flow change = 0.244468
+              Trial  9: relative flow change = 0.126222
+              Trial 10: relative flow change = 0.060702
+              Trial 11: relative flow change = 0.026999
+              Trial 12: relative flow change = 0.009878
+              Trial 13: relative flow change = 0.001992
+              Trial 14: relative flow change = 0.000093
+    23:41:26: Balanced after 14 trials
+    23:41:26: Tank A is filling at 3.36 m
+    23:41:26: Tank D is emptying at 2.11 m
+    23:41:26: Tank E is filling at 2.69 m
+    23:41:26: CV 1196 changed from open to temporarily closed
+    23:41:26: CV 1783 changed from temporarily closed to open
+   
+    23:41:50: Balancing the network:
+              Trial  1: relative flow change = 0.000045
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.312148
+              Trial  3: relative flow change = 0.239001
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 0.163711
+              Trial  5: relative flow change = 0.000001
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.452437
+              Trial  7: relative flow change = 0.428316
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.269999
+              Trial  9: relative flow change = 0.000000
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 10: relative flow change = 0.415836
+              Trial 11: relative flow change = 0.382949
+              Trial 12: relative flow change = 0.107054
+              Trial 13: relative flow change = 0.009407
+              Trial 14: relative flow change = 0.000404
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 15: relative flow change = 0.047141
+              Trial 16: relative flow change = 0.004149
+              Trial 17: relative flow change = 0.000030
+    23:41:50: Balanced after 17 trials
+    23:41:50: Tank A is emptying at 3.36 m
+    23:41:50: Tank D is filling at 2.11 m
+    23:41:50: Tank E is emptying at 2.69 m
+    23:41:50: CV 1196 changed from temporarily closed to open
+    23:41:50: CV 1783 changed from open to temporarily closed
+   
+    23:42:06: Balancing the network:
+              Trial  1: relative flow change = 0.000033
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  2: relative flow change = 0.967756
+              Trial  3: relative flow change = 1.088616
+              Trial  4: relative flow change = 1.003242
+              Trial  5: relative flow change = 0.857112
+              Trial  6: relative flow change = 0.650955
+              Trial  7: relative flow change = 0.427366
+              Trial  8: relative flow change = 0.244469
+              Trial  9: relative flow change = 0.126223
+              Trial 10: relative flow change = 0.060702
+              Trial 11: relative flow change = 0.026999
+              Trial 12: relative flow change = 0.009878
+              Trial 13: relative flow change = 0.001992
+              Trial 14: relative flow change = 0.000093
+    23:42:06: Balanced after 14 trials
+    23:42:06: Tank A is filling at 3.36 m
+    23:42:06: Tank D is emptying at 2.11 m
+    23:42:06: Tank E is filling at 2.69 m
+    23:42:06: CV 1196 changed from open to temporarily closed
+    23:42:06: CV 1783 changed from temporarily closed to open
+   
+    23:42:12: Balancing the network:
+              Trial  1: relative flow change = 0.000011
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.312146
+              Trial  3: relative flow change = 0.238999
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 0.163709
+              Trial  5: relative flow change = 0.000001
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.452435
+              Trial  7: relative flow change = 0.428313
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.269995
+              Trial  9: relative flow change = 0.000000
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 10: relative flow change = 0.415833
+              Trial 11: relative flow change = 0.382946
+              Trial 12: relative flow change = 0.107051
+              Trial 13: relative flow change = 0.009407
+              Trial 14: relative flow change = 0.000404
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 15: relative flow change = 0.047141
+              Trial 16: relative flow change = 0.004149
+              Trial 17: relative flow change = 0.000030
+    23:42:12: Balanced after 17 trials
+    23:42:12: Tank A is emptying at 3.36 m
+    23:42:12: Tank D is filling at 2.11 m
+    23:42:12: Tank E is emptying at 2.69 m
+    23:42:12: CV 1196 changed from temporarily closed to open
+    23:42:12: CV 1783 changed from open to temporarily closed
+   
+    23:42:16: Balancing the network:
+              Trial  1: relative flow change = 0.000008
+              CV 1196 switched from open to closed
+              Trial  2: relative flow change = 0.071058
+              Trial  3: relative flow change = 0.000001
+    23:42:16: Balanced after 3 trials
+    23:42:16: Tank A is filling at 3.36 m
+    23:42:16: Tank D is emptying at 2.11 m
+    23:42:16: CV 1196 changed from open to temporarily closed
+   
+    23:53:04: Balancing the network:
+              Trial  1: relative flow change = 0.001205
+              Trial  2: relative flow change = 0.000001
+              CV 1196 switched from closed to open
+              CV 1783 switched from closed to open
+              Pipe 1879 switched from open to closed
+              Pipe p2 switched from open to closed
+              Trial  3: relative flow change = 0.968614
+              Trial  4: relative flow change = 1.097543
+              Pipe 788 switched from open to closed
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  5: relative flow change = 1.033824
+              Trial  6: relative flow change = 0.857281
+              Pipe 788 switched from closed to open
+              CV 1653 switched from open to closed
+              Pipe 1740 switched from closed to open
+              Pump 5C switched from open to closed
+              Pump 6D switched from open to closed
+              Trial  7: relative flow change = 0.684724
+              Trial  8: relative flow change = 0.432887
+              Pump 5C switched from closed to open
+              Pump 6D switched from closed to open
+              Trial  9: relative flow change = 0.248413
+              Trial 10: relative flow change = 0.128521
+              CV 1154 switched from closed to open
+              CV 1653 switched from closed to open
+              Trial 11: relative flow change = 0.445075
+              Trial 12: relative flow change = 0.347170
+              Trial 13: relative flow change = 0.070900
+              Trial 14: relative flow change = 0.004523
+              Trial 15: relative flow change = 0.000313
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Pipe 1740 switched from open to closed
+              Trial 16: relative flow change = 0.092230
+              Trial 17: relative flow change = 0.004283
+              Trial 18: relative flow change = 0.000030
+    23:53:04: Balanced after 18 trials
+    23:53:04: Tank A is emptying at 3.37 m
+    23:53:04: Tank D is filling at 2.10 m
+    23:53:04: Tank E is filling at 2.68 m
+    23:53:04: CV 1196 changed from temporarily closed to open
+    23:53:04: CV 1783 changed from temporarily closed to open
+    23:53:04: Pipe 1879 changed from open to temporarily closed
+    23:53:04: Pipe p2 changed from open to temporarily closed
+   
+    23:56:52: Balancing the network:
+              Trial  1: relative flow change = 0.000291
+              CV 1783 switched from open to closed
+              Pipe 1879 switched from closed to open
+              Pipe p2 switched from closed to open
+              Trial  2: relative flow change = 0.083905
+              Trial  3: relative flow change = 0.001010
+              Trial  4: relative flow change = 0.000001
+    23:56:52: Balanced after 4 trials
+    23:56:52: Tank E is emptying at 2.69 m
+    23:56:52: CV 1783 changed from open to temporarily closed
+    23:56:52: Pipe 1879 changed from temporarily closed to open
+    23:56:52: Pipe p2 changed from temporarily closed to open
+   
+    23:57:32: Balancing the network:
+              Trial  1: relative flow change = 0.000082
+              CV 1196 switched from open to closed
+              CV 1783 switched from closed to open
+              Trial  2: relative flow change = 0.967777
+              Trial  3: relative flow change = 1.088667
+              Trial  4: relative flow change = 1.003335
+              Trial  5: relative flow change = 0.857260
+              Trial  6: relative flow change = 0.651142
+              Trial  7: relative flow change = 0.427541
+              Trial  8: relative flow change = 0.244594
+              Trial  9: relative flow change = 0.126296
+              Trial 10: relative flow change = 0.060739
+              Trial 11: relative flow change = 0.027016
+              Trial 12: relative flow change = 0.009884
+              Trial 13: relative flow change = 0.001994
+              Trial 14: relative flow change = 0.000093
+    23:57:32: Balanced after 14 trials
+    23:57:32: Tank A is filling at 3.36 m
+    23:57:32: Tank D is emptying at 2.11 m
+    23:57:32: Tank E is filling at 2.69 m
+    23:57:32: CV 1196 changed from open to temporarily closed
+    23:57:32: CV 1783 changed from temporarily closed to open
+   
+    23:57:46: Balancing the network:
+              Trial  1: relative flow change = 0.000026
+              CV 1196 switched from closed to open
+              CV 1783 switched from open to closed
+              Trial  2: relative flow change = 0.312275
+              Trial  3: relative flow change = 0.239121
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  4: relative flow change = 0.163806
+              Trial  5: relative flow change = 0.000001
+              CV 1154 switched from closed to open
+              Trial  6: relative flow change = 0.452584
+              Trial  7: relative flow change = 0.428516
+              CV 1154 switched from open to closed
+              CV 1210 switched from open to closed
+              Trial  8: relative flow change = 0.270154
+              Trial  9: relative flow change = 0.000000
+              CV 1154 switched from closed to open
+              CV 1210 switched from closed to open
+              Trial 10: relative flow change = 0.415978
+              Trial 11: relative flow change = 0.383132
+              Trial 12: relative flow change = 0.107106
+              Trial 13: relative flow change = 0.009411
+              Trial 14: relative flow change = 0.000404
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial 15: relative flow change = 0.047168
+              Trial 16: relative flow change = 0.004151
+              Trial 17: relative flow change = 0.000030
+    23:57:46: Balanced after 17 trials
+    23:57:46: Tank A is emptying at 3.36 m
+    23:57:46: Tank D is filling at 2.11 m
+    23:57:46: Tank E is emptying at 2.69 m
+    23:57:46: CV 1196 changed from temporarily closed to open
+    23:57:46: CV 1783 changed from open to temporarily closed
+   
+    23:57:55: Balancing the network:
+              Trial  1: relative flow change = 0.000018
+              CV 1196 switched from open to closed
+              Trial  2: relative flow change = 0.071102
+              Trial  3: relative flow change = 0.000001
+    23:57:55: Balanced after 3 trials
+    23:57:55: Tank A is filling at 3.36 m
+    23:57:55: Tank D is emptying at 2.11 m
+    23:57:55: CV 1196 changed from open to temporarily closed
+   
+    24:00:00: Balancing the network:
+              Trial  1: relative flow change = 0.089231
+              Trial  2: relative flow change = 0.000107
+              CV 1196 switched from closed to open
+              CV 1783 switched from closed to open
+              Trial  3: relative flow change = 0.938702
+              Trial  4: relative flow change = 1.035689
+              CV 1154 switched from open to closed
+              CV 1196 switched from open to closed
+              CV 1210 switched from closed to open
+              Trial  5: relative flow change = 0.921287
+              Trial  6: relative flow change = 0.698668
+              CV 1154 switched from closed to open
+              Trial  7: relative flow change = 0.529000
+              Trial  8: relative flow change = 0.277252
+              CV 1196 switched from closed to open
+              CV 1210 switched from open to closed
+              Trial  9: relative flow change = 0.140959
+              Trial 10: relative flow change = 0.070353
+              Trial 11: relative flow change = 0.030762
+              Trial 12: relative flow change = 0.012189
+              Trial 13: relative flow change = 0.003131
+              Trial 14: relative flow change = 0.000253
+    24:00:00: Balanced after 14 trials
+    24:00:00: Tank A is emptying at 3.36 m
+    24:00:00: Tank D is filling at 2.11 m
+    24:00:00: Tank E is filling at 2.69 m
+    24:00:00: CV 1196 changed from temporarily closed to open
+    24:00:00: CV 1783 changed from temporarily closed to open
+   
